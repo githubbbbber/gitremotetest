@@ -1,3 +1,4 @@
+diff in feature1 branch
 the changes made in dev branch
 some new changes
 some changes
