@@ -1,3 +1,4 @@
+git stash
 diff in master branch
 the changes made in dev branch
 some new changes

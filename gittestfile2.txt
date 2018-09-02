@@ -1,1 +1,2 @@
+git stash
 this is git test file2
